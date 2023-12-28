@@ -3,7 +3,7 @@
  * Plugin Name: Historical Events
  * Description: Display historical events "On This Day" from Wikimedia API.
  * Version: 1.0
- * Author: Your Name
+ * Author: Depountis Georgios
  */
 
 function historical_events_enqueue_script() { ?>
